@@ -2,8 +2,8 @@
 
 ## How to use
 - You can consult the board of your choice to **find out the current features planned** in the backlog:
-[Bare Metal servers, ](https://github.com/ovh/infrastructure-roadmap/projects/1 "Bare Metal servers") [ OS & Distributions ](https://github.com/ovh/infrastructure-roadmap/projects/2 "OS & Distributions"),[ Storage ](https://github.com/ovh/infrastructure-roadmap/projects/3 "Storage"),
-[ Network & Security ](https://github.com/ovh/infrastructure-roadmap/projects/4 "Network & Security"),[ Product Lifecycle](https://github.com/ovh/infrastructure-roadmap/projects/5 "Product Lifecycle")
+[Bare Metal servers, ](https://github.com/ovh/infrastructure-roadmap/projects/1 "Bare Metal servers") [ OS & Distributions, ](https://github.com/ovh/infrastructure-roadmap/projects/2 "OS & Distributions")[ Storage, ](https://github.com/ovh/infrastructure-roadmap/projects/3 "Storage")
+[ Network & Security, ](https://github.com/ovh/infrastructure-roadmap/projects/4 "Network & Security")[ Product Lifecycle.](https://github.com/ovh/infrastructure-roadmap/projects/5 "Product Lifecycle")
 - You can **watch a given feature** to get email notifications when it is modified or moves forward
 - You can **comment or vote** for listed features to influence our specifications and prioritization
 - You can **suggest a new issue** to the backlog 
